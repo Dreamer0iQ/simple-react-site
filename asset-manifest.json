@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f6da191.css",
+    "main.js": "/static/js/main.e3e8fb2e.js",
+    "static/media/airflow_Moment.jpg": "/static/media/airflow_Moment.fa97201429f6e0c23a4f.jpg",
+    "static/media/airflow-mobile_Moment.png": "/static/media/airflow-mobile_Moment.bb4e126bda891f82e4f9.png",
+    "index.html": "/index.html",
+    "main.5f6da191.css.map": "/static/css/main.5f6da191.css.map",
+    "main.e3e8fb2e.js.map": "/static/js/main.e3e8fb2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f6da191.css",
+    "static/js/main.e3e8fb2e.js"
+  ]
+}
